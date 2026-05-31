@@ -2,6 +2,7 @@
 
 Official artwork, system wallpapers, and media assets for BoredOS.
 
+![The Simpsons season 9 animated GIF](https://media.giphy.com/media/l0G17mKNa6XJHYN5m/giphy.gif)
 
 ## Wallpaper Contributors & Artists
 
